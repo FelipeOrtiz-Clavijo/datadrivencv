@@ -2,6 +2,8 @@
 
 export("%>%")
 export(build_network_logo)
+export(launch_thesis_app)
 export(use_csv_data_storage)
 export(use_datadriven_cv)
 importFrom(magrittr,"%>%")
+importFrom(shiny,runApp)
