@@ -22,7 +22,9 @@ Imports:
     pagedown,
     fs,
     icon (>= 0.1.0),
-    whisker
+    whisker,
+    shiny,
+    DT
 RoxygenNote: 7.0.2
 Roxygen: list(markdown = TRUE)
 Suggests: 

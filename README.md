@@ -228,3 +228,8 @@ Twitter: [@nicholasstrayer](https://twitter.com/NicholasStrayer).
 <!-- Twitter Summary card images must be at least 120x120px -->
 
 <meta name="twitter:image" content="https://github.com/nstrayer/datadrivencv/blob/master/man/figures/logo.svg">
+
+
+## Dirección de trabajos de grado
+
+Utilice `datadrivencv::launch_thesis_app()` para abrir una aplicación web en Shiny que ayuda a coordinar estudiantes, proyectos y reuniones en el proceso de dirección de trabajos de grado. La herramienta trabaja con datos en memoria, permite importar archivos CSV existentes y exportar la información actualizada para compartirla con su equipo académico.
